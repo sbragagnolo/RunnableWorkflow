@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfRunnableWorkflow,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#category : #BaselineOfRunnableWorkflow
 }
 
